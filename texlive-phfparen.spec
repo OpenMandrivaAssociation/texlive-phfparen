@@ -1,6 +1,6 @@
 Name:		texlive-phfparen
 Version:	41859
-Release:	1
+Release:	2
 Summary:	Parenthetic math expressions made simpler and less redundant
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/phfparen
