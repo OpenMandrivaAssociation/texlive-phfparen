@@ -3,7 +3,7 @@ Version:	41859
 Release:	2
 Summary:	Parenthetic math expressions made simpler and less redundant
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/phfparen
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/phfparen
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/phfparen.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/phfparen.doc.r%{version}.tar.xz
